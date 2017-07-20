@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+}
+
+#typer {
+    font-weight: bold;
+    color: lightgreen;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 100px;
+    border: 10px greenyellow ridge;
+    height: 50px;
+    overflow: auto;
+}
